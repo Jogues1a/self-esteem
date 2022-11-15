@@ -1,0 +1,25 @@
+/* Type the CSS styles for the data presentation, conclusion, and recommendation divs here */
+a{
+	color:white;
+}
+a:hover{
+	color:white;
+	background-color:#c991d1;
+	opacity:0.9;
+	text-transform:uppercase;
+	padding:8px;
+	border:2px white;
+}
+a:visited{
+	color:#c991d1;
+	background-color:white;
+	opacity:0.9;
+	padding:8px;
+	border:2px white;	
+}
+a:active{
+	color:white;
+	background-color:#dcbfe0;
+	padding:8px;
+	border:2px white;
+}
